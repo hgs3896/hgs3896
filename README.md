@@ -15,3 +15,5 @@
 ### 2021's Objectives
 
 - Be discharged from the **Army of Republic of Korea** (전역시켜주세여...)
+- 조기전역까지.. 얼마나 남았나?
+  + [![Heroku Counter](http://static-counter-image-server.herokuapp.com/2021/07/02)](http://static-counter-image-server.herokuapp.com/2021/07/02)
