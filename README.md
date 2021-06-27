@@ -9,11 +9,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgs3896/)](https://www.linkedin.com/in/hgs3896/)
 
 
-[![hgs3896's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgs3896&count_private=true&show_icons=true&theme=dracula&locale=kr&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![hgs3896's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgs3896&count_private=true&show_icons=true&theme=dracula&locale=kr&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)  
 [![hgs3896's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgs3896&theme=dracula&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 2021's Objectives
 
 - Be discharged from the **Army of Republic of Korea** (전역시켜주세여...)
 - 조기전역까지.. 얼마나 남았나?
-  + [![Heroku Counter](http://static-counter-image-server.herokuapp.com/2021/07/02)](http://static-counter-image-server.herokuapp.com/2021/07/02)
+  + [![조기전역일카운터](http://static-counter-image-server.herokuapp.com/2021/07/02)](http://static-counter-image-server.herokuapp.com/2021/07/02)
+- 실전역까지는.. 얼마나 남았나?
+  + [![전역일카운터](http://static-counter-image-server.herokuapp.com/2021/08/07)](http://static-counter-image-server.herokuapp.com/2021/08/07)
