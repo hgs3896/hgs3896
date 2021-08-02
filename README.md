@@ -9,8 +9,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgs3896/)](https://www.linkedin.com/in/hgs3896/)
 
 
-[![hgs3896's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgs3896&count_private=true&show_icons=true&theme=dracula&locale=kr&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)  
-[![hgs3896's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgs3896&theme=dracula&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![hgs3896's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgs3896&count_private=true&cache_seconds=1800&show_icons=true&theme=dracula&locale=kr&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) 
+[![hgs3896's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgs3896&theme=dracula&locale=kr&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 2021's Objectives
 
