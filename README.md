@@ -12,7 +12,7 @@
 ### 2021's Objectives
 
  - [x] Have been discharged from the **Army of Republic of Korea** since August 07, 2021 (21/08/07부로 전역했습니다!)
- - [ ] Seek for an **intern** for six months
+ - [x] Seek for an **intern** for six months
  - [ ] Study and master concepts and techniques for **'Data Science'** and **'Deep Learning'** including related areas such as **'Statistics'** and **'Linear Algebra'**
  - [ ] Improve and develop my problem solving skills to help my career as a develper become splendid by solving 750 problems in [BOJ](https://acmicpc.net)
  - [ ] Maintain healthy conditions physically and mentally to achieve whatever I want to do against laziness and self-satisfaction
