@@ -17,4 +17,3 @@
  - [x] Seek for an **intern**
  - [ ] Study and master concepts and techniques for **'Data Science'** and **'Deep Learning'** including related areas such as **'Statistics'** and **'Linear Algebra'**
  - [ ] Improve and develop my problem solving skills to help my career as a develper become splendid by solving 750 problems in [BOJ](https://acmicpc.net)
- - [ ] Maintain healthy conditions physically and mentally to achieve whatever I want to do against laziness and self-satisfaction
