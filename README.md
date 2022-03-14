@@ -7,13 +7,11 @@
 
 [![hgs3896's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgs3896)](https://solved.ac/hgs3896)
 [![hgs3896's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgs3896&theme=gruvbox_light&locale=kr&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-### 2021's Objectives
-
- - [x] Have been discharged from the **Army of Republic of Korea** since August 07, 2021 (21/08/07부로 전역했습니다!)
- - [x] Seek for an **intern** for six months
-
 ### 2022's Objectives
 
  - [ ] Study and master concepts and techniques for **'Data Science'** and **'Deep Learning'** including related areas such as **'Statistics'** and **'Linear Algebra'**
  - [ ] Improve and develop my problem solving skills to help my career as a develper become splendid by solving 750 problems in [BOJ](https://acmicpc.net)
+### 2021's Objectives
+
+ - [x] Have been discharged from the **Army of Republic of Korea** since August 07, 2021 (21/08/07부로 전역했습니다!)
+ - [x] Seek for an **intern** for six months
