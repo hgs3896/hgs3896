@@ -1,5 +1,6 @@
 ## 함지성(hgs3896) - Ham Ji Seong
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhgs3896&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/hgs3896)](https://www.github.com/hgs3896)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hgs3896)](https://www.facebook.com/hgs3896)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/js.h_am/)](https://www.instagram.com/ham_ji_seong/)
@@ -7,3 +8,9 @@
 
 [![hgs3896's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hgs3896)](https://solved.ac/hgs3896)
 [![hgs3896's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgs3896&theme=gruvbox_light&locale=kr&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tech Skills
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/OpenGLShaderLang-5586A4?style=flat&logo=opengl&logoColor=white"/></span>
