@@ -14,3 +14,8 @@
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/OpenGLShaderLang-5586A4?style=flat&logo=opengl&logoColor=white"/></span>
+
+### Experiences
+1. Samsung S. LSI AP Dev Team Intern (2023.03~2023.06)
+2. Snow Camera Content Dev Team Intern (2021.09~2022.02)
+3. ROK Software Development-specialized soldier (2020.01~2021.08)
