@@ -2,6 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhgs3896&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/hgs3896)](https://www.github.com/hgs3896)
+[![Github Blog Badge](https://img.shields.io/badge/-Blog-111111?style=flat-square&logo=githubpages&logoColor=white&link=https://hgs3896.github.io)](https://hgs3896.github.io)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hgs3896)](https://www.facebook.com/hgs3896)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/js.h_am/)](https://www.instagram.com/ham_ji_seong/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgs3896/)](https://www.linkedin.com/in/hgs3896/)
