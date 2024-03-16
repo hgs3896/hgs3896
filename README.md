@@ -17,7 +17,7 @@
 <span><img src="https://img.shields.io/badge/OpenGLShaderLang-5586A4?style=flat&logo=opengl&logoColor=white"/></span>
 
 ### Experiences
-1. [Hyperconnect](https://hyperconnect.com) AI Dev Team (2024.03~**Current**)
+1. [Hyperconnect](https://hyperconnect.com) AI Platform Dev Team (2024.03~**Current**)
 2. [Samsung S. LSI](https://semiconductor.samsung.com/about-us/business-area/system-lsi) AP Dev Team Intern (2023.03~2023.06)
 3. [Snow](https://snowcorp.com) Camera Content Dev Team Intern (2021.09~2022.02)
 4. [ROK Software Development-specialized soldier](https://www.mma.go.kr/contents.do?mc=mma0001989) (2020.01~2021.08)
