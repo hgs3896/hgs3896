@@ -11,10 +11,27 @@
 [![hgs3896's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgs3896&theme=gruvbox_light&locale=kr&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech Skills
+
+#### System Development
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+
+#### Mobile Development
+<span><img src="https://img.shields.io/badge/swift-%23F05138?style=flat&logo=swift&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white"></span>
+
+#### Graphics
 <span><img src="https://img.shields.io/badge/OpenGLShaderLang-5586A4?style=flat&logo=opengl&logoColor=white"/></span>
+
+#### ML
+<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CoreML-000000?style=flat&logo=apple&logoColor=white"/></span>
+
+#### Documentation
+<span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/></span>
 
 ### Experiences
 1. [Hyperconnect](https://hyperconnect.com) AI Platform Dev Team (2024.03~**Current**)
