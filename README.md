@@ -23,6 +23,7 @@ If you want to reach me, contact me through [my Linked-in account](https://www.l
 <span><img src="https://img.shields.io/badge/swift-%23F05138?style=flat&logo=swift&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/dart-%0175C2?style=flat&logo=dart&logoColor=white"></span>
+<p><a href="https://hyperconnect.github.io/2026/01/23/On-device-Face-Verification-Pipeline-Optimization.html">[Tech Blog] 온디바이스 AI 얼굴 식별 파이프라인 최적화</a></p>
 
 #### Graphics
 <span><img src="https://img.shields.io/badge/OpenGL_Shader-5586A4?style=flat&logo=opengl&logoColor=white"/></span>
@@ -38,7 +39,7 @@ If you want to reach me, contact me through [my Linked-in account](https://www.l
 <span><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/></span>
 
 ### Experiences
-1. [Matchgroup](https://mtch.com) MGAI Central Dev Team (2024.09~**Current**)
+1. [Matchgroup](https://mtch.com) MGAI Dev Team (2024.09~**Current**)
 2. [Hyperconnect](https://hyperconnect.com) AI Platform Dev Team (2024.03~2024.08)
 3. [Samsung S. LSI](https://semiconductor.samsung.com/about-us/business-area/system-lsi) AP Dev Team Intern (2023.03~2023.06)
 4. [Snow](https://snowcorp.com) Camera Content Dev Team Intern (2021.09~2022.02)
